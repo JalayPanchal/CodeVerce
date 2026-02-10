@@ -8,6 +8,6 @@ import com.entity.UserTypeEntity;
 @Repository
 
 public interface UserTypeRepository extends JpaRepository<UserTypeEntity, Integer>{
-	
+	//small change
 
 }
